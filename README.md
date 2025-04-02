@@ -36,5 +36,10 @@
   <code><img title="Git" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png"></code>
   <code><img title="Visual Studio Code" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></code>
   <code><img title="GitHub" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1200px-Github-desktop-logo-symbol.svg.png"></code>
+   <a href="https://github-readme-stats.vercel.app/api?username=itskkumar&theme=dark&show_icons=true">
 </p>
+    
 <hr>
+<h5 align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=itskkumar&theme=dark&show_icons=true">
+  </a>

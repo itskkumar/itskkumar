@@ -18,7 +18,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Data Structure and Algorithm in C++.
+  📚 I’m currently learning AI & Data Science using Python, Data Structure and Algorithm in C++.
   <br>
 
   📫 How to reach me: <a href="mailto: karankumar7488600@gmail.com">karankumar7488600@gmail.com</a>
